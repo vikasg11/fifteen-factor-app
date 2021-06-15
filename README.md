@@ -13,7 +13,13 @@ Looking Beyond (Fifteen-Factor App) - Modern application architectures are more 
 
 | Topic                                                 | Description                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Intial Setup & tools](./setup_and_tools.md)                                     | Quick setup and tools reference to start with                          |
+| [Initial Setup & Tools](./setup_and_tools.md)                                     | Quick setup and tools reference to start with                          |
 | [01 Codebase](./01_codebase.md)                                     | Start with Git Repository                          |
 | [02 Dependencies](./02_dependencies.md)                                     | Handle Dependencies                          |
+| [03 Config](./03_config.md)                                     | Managing project Configurations                          |
+| [04 Backing services](./04_backing_services.md)                                     | Backing Services Insight                          |
+| [05 Build, Release, Run](./05_build_release_run.md)                                     | Build, Release, Run stages reference                          |
+| [06 Processes](./06_processes.md)                                     | Stateless Processes                          |
+| [07 Port binding](./07_port_binding.md)                                     | Port Binding Approach reference                          |
+| [08 Concurrency](./08_concurrency.md)                                     | Bringing-in Concurrency                          |
 | [xxxxx](./02_xxxxx_.md)                                     | Sample Description                             
