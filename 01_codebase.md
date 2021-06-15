@@ -1,8 +1,10 @@
 ### I.	Codebase
 One codebase is tracked in version control. There is only one codebase per application, but there will be many deploys of the application.
-The codebase is the same across all deploys, although different versions may be active in each deployment. For example, a developer has some commits not yet deployed to staging; staging has some commits not yet deployed to production
+The codebase is the same across all deploys, although different versions may be active in each deployment. For example, a developer has some commits not yet deployed to staging; staging has some commits not yet deployed to production.
 
-You can create or clone the existing repository.
+![15FactorApp-CodeBase.jpg](./images/15FactorApp-CodeBase.jpg)
+
+For a quick start, you can create or clone the existing repository.
 
 #### Clone an exisiting Git Repository -
 ```sh
