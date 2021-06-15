@@ -6,8 +6,8 @@ You can create or clone the existing repository.
 
 #### Clone an exisiting Git Repository -
 ```sh
-git clone git@github.com:vikasg11/15-factor-app.git
-cd 15-factor-app
+  $ git clone git@github.com:vikasg11/15-factor-app.git
+  $ cd 15-factor-app
 ```
 
 
@@ -18,12 +18,12 @@ cd 15-factor-app
 This command should be run from the root of the application. Add the necessary files from your preferred framework to the folder and commit.
 
 ```sh
-git add .
-git commit -m "Inital commit for the application"
+  $ git add .
+  $ git commit -m "Inital commit for the application"
 ```
 Finally, you can add a remote and push our commits to the remote if you wish to:
 
 ```sh
-git remote add origin https://github.com/<username>/15-factor-app.git
-git push -u origin master
+  $ git remote add origin https://github.com/<username>/15-factor-app.git
+  $ git push -u origin master
 ```
