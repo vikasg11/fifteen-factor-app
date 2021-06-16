@@ -22,4 +22,8 @@ Looking Beyond (Fifteen-Factor App) - Modern application architectures are more 
 | [06 Processes](./06_processes.md)                                     | Stateless Processes                          |
 | [07 Port binding](./07_port_binding.md)                                     | Port Binding Approach reference                          |
 | [08 Concurrency](./08_concurrency.md)                                     | Bringing-in Concurrency                          |
+| [09 Disposability](./09_disposability.md)                                     | Bringing-in Concurrency                          |
+| [10 Dev / Prod Parity](./10_dev_prod_parity.md)                                     | Bringing-in Concurrency                          |
+| [11 Logs](./11_logs.md)                                     | Logging Guideliens                          |
+| [12 Admin Processes](./12_admin_processes.md)                                     | Manage Admin Processes                          |
 | [xxxxx](./02_xxxxx_.md)                                     | Sample Description                             
