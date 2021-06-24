@@ -21,24 +21,16 @@ Refer to this [link](https://docs.github.com/en/github/authenticating-to-github/
 Clone the application using the following command.
 
 ```
-git clone clone git@github.com:vikasg11/15-factor-app.git
+git clone clone git@github.com:vikasg11/fifteen-factor-app.git
 ```
 
-### Building the application
+### Java Spring Framework Tools Reference
 
-To build the application please run following command.
-
-```
-./gradlew clean build
-```
-
-## Development Environment Tools Reference
-
-Please install following tools
+Following tools can facilitate rapid implementation of a sample application - 
 
 | [Name of the tool] | [Version] | [Yes/Optional] |
 | ------------------ | --------- | -------------- |
-| JDK | 11 | Yes |
+| JDK | 11+ | Yes |
 | Java IDE | x.x.x | Yes |
 | Gradle | 6.8.x | Yes |
 | Git client | 2.x.x | Yes |
