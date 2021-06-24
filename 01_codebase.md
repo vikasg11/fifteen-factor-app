@@ -9,7 +9,7 @@ For a quick start, you can create or clone the existing repository.
 #### Clone an exisiting Git Repository -
 ```sh
   $ git clone git@github.com:vikasg11/15-factor-app.git
-  $ cd 15-factor-app
+  $ cd fifteen-factor-app
 ```
 
 
@@ -26,6 +26,6 @@ This command should be run from the root of the application. Add the necessary f
 Finally, you can add a remote and push our commits to the remote if you wish to:
 
 ```sh
-  $ git remote add origin https://github.com/<username>/15-factor-app.git
+  $ git remote add origin https://github.com/<username>/fifteen-factor-app.git
   $ git push -u origin master
 ```
