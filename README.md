@@ -9,20 +9,20 @@ Modern application architectures are more complex and the containerized approach
 
 #### The Methodology - Fifteen Factor App
 
-Fifteen Factors are an extension and suggested additions to the twelve factors that support the modern application architectures. Looking at the complexity and architectural changes witnessed in modern applications, existing layout principles are being elaborated further and the key suggested factor additions are as below –
+<strong>Fifteen Factors</strong> are an extension and suggested additions to the twelve factors that support the modern application architectures. Looking at the complexity and architectural changes witnessed in modern applications, existing layout principles are being elaborated further and the key suggested factor additions are as below –
 - API First Approach
 - Telemetry
 - Security (Authentication and Authorization)
 
 The methodology remains aligned with the principles suggested in core Twelve-Factor App methodology with an extension to additional factors –
-- Use Declarative Formats for setup automation, to minimize time and cost for new developers joining the project
-- Have a Clean Contract, offering maximum portability between execution environments
+- Use <strong>Declarative Formats</strong> for setup automation, to minimize time and cost for new developers joining the project
+- Have a <strong>Clean Contract</strong>, offering maximum portability between execution environments
 - Are suitable for deployment on modern Cloud Platforms, obviating the need for servers and systems administration
-- Minimize Divergence between development and production, enabling continuous deployment for maximum agility
-- Dynamically Scalable without significant changes to tooling, architecture, or development practices.
-- Service-Driven Approach – Availability of the contract to be consumed by a Front-end client application, routing gateway, or any other downstream system
-- Monitoring the distributed applications deployments for domain/application-specific logs/data, health information, or more statistics on modern cloud platforms
-- Security (Authentication and Authorization) is addressed appropriately so that identity is implemented for each of the requests
+- <strong>Minimize Divergence</strong> between development and production, enabling continuous deployment for maximum agility
+- <strong>Dynamically Scalable</strong> without significant changes to tooling, architecture, or development practices.
+- <strong>Service-Driven Approach</strong> – Availability of the contract to be consumed by a Front-end client application, routing gateway, or any other downstream system
+- <strong>Monitoring</strong> the distributed applications deployments for domain/application-specific logs/data, health information, or more statistics on modern cloud platforms
+- <strong>Security</strong> (Authentication and Authorization) is addressed appropriately so that identity is implemented for each of the requests
 <BR/>
 
 ![15FactorApp-15-Factors.jpg](./images/15FactorApp-15-Factors.jpg)
