@@ -22,7 +22,7 @@ The methodology remains aligned with the principles suggested in core Twelve-Fac
 - Dynamically Scalable without significant changes to tooling, architecture, or development practices.
 - Service-Driven Approach – Availability of the contract to be consumed by a Front-end client application, routing gateway, or any other downstream system
 - Monitoring the distributed applications deployments for domain/application-specific logs/data, health information, or more statistics on modern cloud platforms
-- Security (Authentication / Authorization) is addressed appropriately so that identity is implemented for each of the requests
+- Security (Authentication and Authorization) is addressed appropriately so that identity is implemented for each of the requests
 <BR/>
 
 ![15FactorApp-15-Factors.jpg](./images/15FactorApp-15-Factors.jpg)
@@ -46,4 +46,4 @@ The methodology remains aligned with the principles suggested in core Twelve-Fac
 | [12 - Admin Processes](./12_admin_processes.md)                                     | Manage Admin Processes                          |
 | [13 - API First](./13_api_first.md)                                     | API First Approach                          |
 | [14 - Telemetry](./14_telemetry.md)                                     | Telemetry - Application Monitoring                          |
-| [15 - Security](./15_security.md)                                     | Security - Authentication / Authorization                             
+| [15 - Security](./15_security.md)                                     | Security - Authentication and Authorization                             

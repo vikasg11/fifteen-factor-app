@@ -5,7 +5,7 @@ Everything that varies between different deploys across environments (staging, p
 - Credentials to external services such as Azure Event Hub, Amazon S3, or Media Server
 - Application connectivity information like IP Addresses, ports, and hostnames, etc.
 
-Application Configuration should never be hardcoded. 12-factor app principles suggest saving the configuration values in the environment variables or externalize the configuration from the application. In the Java world, one of the examples of externalizing the application configuration is the use of Spring-Cloud-Config.
+Application Configuration should never be hardcoded. The principle suggests saving the configuration values in the environment variables or externalize the configuration from the application. In the Java world, one of the examples of externalizing the application configuration is the use of Spring-Cloud-Config.
 
 For instance, the Spring Framework provides a configuration file where such configurations can be declared and attached to environment variables:
 

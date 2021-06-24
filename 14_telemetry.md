@@ -10,7 +10,7 @@ It is important to have the right Telemetry controls in place for the success of
 ![15FactorApp-Telemetry.jpg](./images/15FactorApp-Telemetry.jpg)
 
 
-##### Sample spring - swagger dependencies -
+##### Sample Gradle dependencies to include health probe, logging apis and tracing apis in application -
 ```sh
 dependencies {
     // Jaeger dependencies
